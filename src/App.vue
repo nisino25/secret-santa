@@ -110,7 +110,7 @@ export default {
           this.username= ''
 
 
-          if(this.nameList.length > 5){
+          if(this.nameList.length > 2){
             this.typing = false;
           }
           return
